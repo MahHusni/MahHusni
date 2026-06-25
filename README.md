@@ -15,7 +15,6 @@ Experienced professional with a demonstrated history of working in the televisio
 ### 🌐 Connect with Me
 * 💼 [LinkedIn] www.linkedin.com/in/mohammad-alhasan-a649782/
 * 📧 Email: mohusni@gmail.com
-* ---
 
 ### 🎥 Featured AI Video Showcase
 Check out my latest cinematic video productions generated using advanced AI tools like Higgsfield, ElevenLabs, and Kling AI:
