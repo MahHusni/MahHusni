@@ -22,3 +22,10 @@ Check out my latest cinematic video productions generated using advanced AI tool
 [![AI Video Showcase](https://img.shields.io/badge/YouTube-Watch%20My%20AI%20Portfolio-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLNa7rpD_GS1k)
 
 *Click the button above to view the full playlist on YouTube.*
+---
+
+### 📂 AI Production Pipeline & Showcases
+Want to see the full creative process? Explore my complete production workflow from early scripting to visual shot continuity:
+
+* 📄 **[Concept & Scriptwriting](./AI-Cinematic-Production-Showcase/Scripts)**: Creative briefs, character dynamics, and narrative structures.
+* 🖼️ **[Storyboarding & Shot Design](./AI-Cinematic-Production-Showcase/Storyboards)**: Visual continuity, camera tracking plans, and high-contrast scenic panels.
